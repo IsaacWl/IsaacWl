@@ -11,10 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacWl&layout=compact"/>
 </div>
 
-<div align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacWl" />
-</div>
-
 ## Languages and Tools:
 
 <div>
