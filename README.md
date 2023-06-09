@@ -1,14 +1,17 @@
-<div align="center">
+<div align="left">
   <img width="10%" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47tfnm0j31izrouu30r5e0yi1bhjxxufipp5uev9az&rid=200w.webp&ct=g" style="border-radius: 50%;"/>
 </div>
 
-## Hello I'm Isaac 👋 🐱‍💻
+# Hello I'm Isaac 💻
 
-- 📚 web, game and mobile development.
-- 🌱 I’m currently learning node and react.
+- 📚 web, design, games and mobile development.
+- 🌱 I’m currently learning aws and azure.
 
-<div>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacWl&layout=compact"/>
+</div>
+
+<div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacWl" />
 </div>
 
