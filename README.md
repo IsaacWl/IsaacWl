@@ -1,9 +1,9 @@
 # Hello, I'm Isaac ✋
 
-- 🌳 studying.
-- 🌱 I’m currently learning aws and azure.
-- 📚 web, design, games and mobile development.
-- 🚀 rocket emoji without context, nice.
+- 🌳 Trees..
+- 🌱 I’m currently learning AWS and Azure.
+- 📚 Web, Design, Games and Mobile Development.
+- 🚀 Rockets..
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacWl&layout=compact"/>
@@ -23,4 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
