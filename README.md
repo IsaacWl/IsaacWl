@@ -1,9 +1,9 @@
 # Hello, I'm Isaac ✋
 
-- 🌳 trying to keep my learning consistency
+- 🌳 studying.
 - 🌱 I’m currently learning aws and azure.
 - 📚 web, design, games and mobile development.
-- 🚀 I don't know what should I write
+- 🚀 rocket emoji without context, nice.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacWl&layout=compact"/>
