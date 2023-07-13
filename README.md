@@ -1,9 +1,9 @@
 # Hello, I'm Isaac ✋
-
-- 🌳 Trees..
+--------------------- | | -----------------------
 - 🌱 I’m currently learning AWS and Azure.
 - 📚 Web, Design, Games and Mobile Development.
-- 🚀 Rockets..
+
+--------------------- | | -----------------------
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacWl&layout=compact"/>
