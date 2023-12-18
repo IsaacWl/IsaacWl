@@ -1,7 +1,9 @@
 # Hello, I'm Isaac ✋
 --------------------- | | -----------------------
-- 🌱 I’m currently learning AWS and Azure.
-- 📚 Web, Design, Games and Mobile Development.
+- 📚 FullStack Web Development.
+- 🌱 I’m currently learning cloud computing.
+- 💻 I'm trying to keep studying
+- 😕 sometimes confused
 
 --------------------- | | -----------------------
 
