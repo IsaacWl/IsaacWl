@@ -1,9 +1,9 @@
-# Hello, I'm Isaac ✋
+# I'm Isaac ✋
 --------------------- | | -----------------------
 - 📚 FullStack Web Development.
 - 🌱 I’m currently learning cloud computing.
 - 💻 I'm trying to keep studying
-- 😕 sometimes confused
+- 😕 What should I say anyways?
 
 --------------------- | | -----------------------
 
