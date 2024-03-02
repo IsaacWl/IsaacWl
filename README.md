@@ -1,9 +1,9 @@
 # I'm Isaac ✋
 --------------------- | | -----------------------
-- 📚 FullStack Web Development.
-- 🌱 I’m currently learning cloud computing.
-- 💻 I'm trying to keep studying
-- 😕 What should I say anyways?
+- 📚 FullStack Development.
+- 🌱 I’m currently studying algorithms and data structures.
+- ℹ️ I'm autistic
+- :basecampy: what is this emoji?
 
 --------------------- | | -----------------------
 
